@@ -1,11 +1,10 @@
 {
-  "public_version": "1.1",
-  "public_download_url": "https://github.com/.../RapidEngine_v1.0.exe",
-  "public_notes": "Stable Version.",
-
+  "developer_usernames": ["admin@nothingfornow", "admin_suban"],
   "developer_version": "1.1",
-  "developer_download_url": "https://github.com/.../RapidEngine_v1.1_BETA.exe",
-  "developer_notes": "Testing New Certificate UI Logic.",
+  "developer_download_url": "https://github.com/...",
+  "developer_notes": "Added new beta features.",
   
-  "developer_usernames": ["admin-", "admin_suban"] 
+  "public_version": "1.0",
+  "public_download_url": "https://github.com/...",
+  "public_notes": "Bug fixes."
 }
